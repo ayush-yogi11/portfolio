@@ -13,7 +13,7 @@ const Footer = () => {
             <h3 className="footer-name">Aayush Nath Yogi</h3>
             <p className="footer-tagline">
               Computer Science Student & AI Enthusiast
-              contact no. : 9868967331
+              contact no. : 980000000
             </p>
           </div>
           
